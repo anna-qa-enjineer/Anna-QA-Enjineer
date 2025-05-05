@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩🏼 Anna QA Engineer
 
-<!--
-**anna-qa-enjineer/Anna-QA-Enjineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal QA Engineer portfolio repository!
 
-Here are some ideas to get you started:
+🌍 Based in: Earth, but soul — cosmic  
+💻 Specialization: Functional testing, UI/UX, test cases, bug reports  
+🎨 Passion: Merging precision with beauty  
+🧠 Tools: Jira, TestRail, Postman, Figma, Selenium, Charles Proxy  
+🌟 Goal: Create quality that feels like art  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Projects
+- **UI Test Documentation** – Clear and effective test cases
+- **Bug Reports Portfolio** – Real examples from tested apps
+- **Manual Testing Tasks** – Scenarios, analytics, insights
+
+---
+
+> _“Quality is not an act, it is a habit.” – Aristotle_
+
+Let’s make every product shine! 🌟
+
+📫 Contact: [Telegram @anna_qatester](https://t.me/anna_qatester)
