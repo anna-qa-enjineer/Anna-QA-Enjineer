@@ -3,11 +3,10 @@
 Welcome to my personal QA Engineer portfolio repository!
 
 🌍 Based in: Earth, but soul — cosmic  
-💻 Specialization: Functional testing, UI/UX, test cases, bug reports  
-🎨 Passion: Merging precision with beauty  
+💻 Specialization: Functional testing, UI/UX, test cases, bug reports, manual testing  
 🧠 Tools: Jira, TestRail, Postman, Figma, Selenium, Charles Proxy  
 🌟 Goal: Create quality that feels like art  
-
+🚀 Mission: Ensure quality with clarity, logic, and care
 ---
 
 ### 📌 Projects
