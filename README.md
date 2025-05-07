@@ -20,4 +20,4 @@ Welcome to my personal QA Engineer portfolio repository!
 
 Let’s make every product shine! 🌟
 
-📫 Contact: [Telegram @anna_qatester](https://t.me/anna_qatester)
+📫 Contact: [Telegram @anna_qaenjineer](https://t.me/anna_qaenjineer)
